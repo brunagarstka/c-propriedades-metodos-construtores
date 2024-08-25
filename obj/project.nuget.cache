@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD:obj/project.nuget.cache
+  "dgSpecHash": "4iB9MY6rJWI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\c#.csproj",
+=======
+  "dgSpecHash": "2JuEYXmZCdo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-propriedades-metodos-construtores\\c-propriedades-metodos-construtores.csproj",
+>>>>>>> bed95a2 (subindo atualização):c-propriedades-metodos-construtores/obj/project.nuget.cache
+  "expectedPackageFiles": [],
+  "logs": []
+}

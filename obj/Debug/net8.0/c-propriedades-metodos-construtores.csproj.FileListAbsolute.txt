@@ -1,0 +1,15 @@
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\bin\Debug\net8.0\c-propriedades-metodos-construtores.exe
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\bin\Debug\net8.0\c-propriedades-metodos-construtores.deps.json
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\bin\Debug\net8.0\c-propriedades-metodos-construtores.runtimeconfig.json
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\bin\Debug\net8.0\c-propriedades-metodos-construtores.dll
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\bin\Debug\net8.0\c-propriedades-metodos-construtores.pdb
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.sourcelink.json
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.dll
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\refint\c-propriedades-metodos-construtores.dll
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.pdb
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\c-propriedades-metodos-construtores.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Documentos\c#\c-propriedades-metodos-construtores\obj\Debug\net8.0\ref\c-propriedades-metodos-construtores.dll
