@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD:obj/project.assets.json
-      "projectUniqueName": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\c#.csproj",
-      "projectName": "c#",
-      "projectPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\c#.csproj",
-      "packagesPath": "C:\\Users\\bruna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-\\obj\\",
-=======
       "projectUniqueName": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-propriedades-metodos-construtores\\c-propriedades-metodos-construtores.csproj",
       "projectName": "c-propriedades-metodos-construtores",
       "projectPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-propriedades-metodos-construtores\\c-propriedades-metodos-construtores.csproj",
       "packagesPath": "C:\\Users\\bruna\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-propriedades-metodos-construtores\\obj\\",
->>>>>>> bed95a2 (subindo atualização):c-propriedades-metodos-construtores/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruna\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,5 +67,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Users\\bruna\\OneDrive\\Documentos\\c#\\c-propriedades-metodos-construtores\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
