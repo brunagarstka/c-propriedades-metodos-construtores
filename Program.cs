@@ -3,7 +3,81 @@ using c_propriedades_metodos_construtores.Models;
 using System.Globalization;
 using System.Data;
 
-string dataString = "2024-08-28 22:00";
+new ExemploExceção().Metodo1();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+try
+{
+    string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+
+    foreach(string linha in linhas)
+    {
+        Console.WriteLine(linha);
+    }
+
+} catch(FileNotFoundException ex)
+{
+    Console.WriteLine($"Ocorreu um erro de leitura do arquivo. Arquivo não encontrado. {ex.Message}");
+}catch(Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma execeção genérica. {ex.Message}");
+}
+finally
+{
+Console.WriteLine("Chegou ate aqui");
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*string dataString = "2024-08-28 22:00";
 
 bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data);
 if (sucesso)
@@ -13,7 +87,7 @@ if (sucesso)
 else 
 {
     Console.WriteLine($"{dataString} não é uma data valida");
-}
+}*/
 
 
 
