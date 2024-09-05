@@ -8,10 +8,19 @@ namespace c_propriedades_metodos_construtores.Models
 {
     public class Pessoa
     {
+        public Pessoa()
+        {
+
+        }
         public Pessoa(string nome, string sobrenome) //um construtor nao tem nada de void,int ou seja modo de retorno
         {
             Nome = nome;
             Sobrenome = sobrenome;
+        }
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
         }
         private string _nome;
         public string Nome

@@ -3,6 +3,91 @@ using c_propriedades_metodos_construtores.Models;
 using System.Globalization;
 using System.Data;
 
+int numero = 10;
+bool ehPar = false;
+
+//IF TERNÁRIO
+ehPar = numero % 2 == 0;
+Console.WriteLine($"O numero {numero} é "+ (ehPar ? "par" : "impar"));
+/*
+if(numero % 2 == 0)
+{
+    Console.WriteLine($"O numero {numero} é par");
+}
+else
+{
+    Console.WriteLine($"O numero {numero} é impar");
+}
+*/
+
+
+
+/*
+Pessoa p1 = new Pessoa("Bruna", "Luisa");
+(string nome, string sobrenome) = p1;
+
+Console.WriteLine($"{nome} {sobrenome}");
+
+*/
+
+
+
+
+
+
+
+
+
+
+/*
+LeituraArquivo arquivo = new LeituraArquivo();
+var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivo/arquivoLeitura.txt"); // O _ SERVE PARA UM DESCARTE DE INFORMAÇÕES
+
+if(sucesso)
+{
+    //Console.WriteLine("Quantidade de linhas: " + QuantidadeLinhas);
+    foreach(string linha in linhasArquivo)
+    {
+        Console.WriteLine(linha);
+    }
+}
+else
+{
+    Console.WriteLine("Não foi possivel ler o arquivo");
+}
+*/
+
+
+
+
+/*
+    (int, string, string, decimal) tupla = (1, "Bruna", "Luisa", 1.66M);
+
+
+    //ValueTuple<int, string, string, decimal> outroExemploTuple = (1, "Bruna", "Luisa", 1.66M);
+    //var outroExemploTupleCreat = Tuple.Create(1, "Bruna", "Luisa", 1.66M);
+
+    Console.WriteLine($"Id: {tupla.Item1}");
+    Console.WriteLine($"Nome: {tupla.Item2}");
+    Console.WriteLine($"Sobrenome: {tupla.Item3}");
+    Console.WriteLine($"Altura: {tupla.Item4}");
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 Dictionary<string, string> estados = new Dictionary<string, string>();
 estados.Add("SP", "São Paulo");
 estados.Add("RJ", "Rio de Janeiro");
@@ -31,7 +116,7 @@ else
     Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
 }
 Console.WriteLine(estados["RJ"]);
-
+*/
 
 
 
